@@ -4,5 +4,5 @@ Deep Learning
 
 
 
-## Implement Logistic Regression using Python and Numpy.
-## Apply the implementation to solve binary classification problems.
+1. Implement Logistic Regression using Python and Numpy.
+2. Apply the implementation to solve binary classification problems.
